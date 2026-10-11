@@ -1,12 +1,15 @@
 # cpp-oops-practice
-A beginner C++ OOP practice program that validates a binary number and displays its 1’s complement.
-# C++ OOP Practice
+# 🚀 C++ OOP Practice
 
-A beginner C++ program that checks whether an input is a binary number and displays its 1's complement.
+Small programs I’m building while learning **C++ and Object-Oriented Programming**.
 
-## Concepts practiced
-- Classes and objects
-- Private and public members
-- Member functions
-- Loops and conditionals
-- String input
+## 📚 Programs
+
+- **Binary Complement** — Validates a binary number and displays its 1’s complement.
+- **Palindrome Checker** — Checks whether a number reads the same forwards and backwards.
+
+## 🧠 Concepts Practiced
+
+Classes · Objects · Member Functions · Loops · Conditionals
+
+> Beginner practice projects
